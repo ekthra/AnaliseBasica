@@ -34,12 +34,12 @@ Aplicar conhecimentos de **análise de dados e manipulação de datasets** reais
 
 ## 📂 Estrutura do Projeto
 
-├── Projeto.py  Script principal com lógica e análise
-├── database/
-    └── diabetes.db  Banco de dados SQLite com dados de pacientes
-├── dataset/
-    └── diabetes.csv  Conjunto de dados principal com atributos médicos
-    └── pacientes.csv  Lista com dados demográficos dos pacientes
+    ├── Projeto.py  Script principal com lógica e análise
+    ├── database/
+        └── diabetes.db  Banco de dados SQLite com dados de pacientes
+    ├── dataset/
+        └── diabetes.csv  Conjunto de dados principal com atributos médicos
+        └── pacientes.csv  Lista com dados demográficos dos pacientes
 
 
 ---
